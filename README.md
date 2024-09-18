@@ -345,6 +345,7 @@ Berikut daftar Volunter yang diterima:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
 
 ### P
+* Pandapotan Kristian Sitorus, [(Github), ( https://github.com/CC-42-Pandapotan ).
 * Panji Ramadhan Hadjarati, [panjihadjarati.netlify.app](https://panjihadjarati.netlify.app/).
 * Paskah Prabu Wahyu Martinus, [LinkedIn](https://www.linkedin.com/in/paskahprabu21/).
 * Permana, [GitHub.com](https://github.com/Permana4131).
